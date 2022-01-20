@@ -56,7 +56,7 @@ print ("\x1b[96m")
 time.sleep (1)
 banner = """========================================
 [•] Youtube : Z-NIGHTSHOT
-[•] Github  : https://github.com/OtLOCK
+[•] Github  : https://github.com/autozagamerthch
 ========================================"""
 print (banner)
 time.sleep (1)
